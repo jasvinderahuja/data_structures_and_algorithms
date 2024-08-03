@@ -2,9 +2,11 @@
 ## Motiation and Background
 I recently had an interview where among other things, I could not code in Python in the time given. Over the years, my coding journey began with C++. Then Perl was the big thing for Biology, and later in 2016 I began my R journey with a little Python. Now, I believe for the next part of my Data Science journey, Python is mainstage.
 
-Here, I will be coding some basic algorithms, in addition to following a fun book "Impractical Python Projects" by Lee Vaughan.
+Here, I will be coding some basic algorithms, and go onto leetcode questions for practicing Python.
 
-Out of the box, I love the quote - "You can always count on the Americans to do the right thing after they have tried everything else" - Weakly linked to Winston Churchill. So now after presenting myself as a data scientist for years, I will practice algorithms and code in Python!!
+I love the quote from - "Impractical Python Projects" by Lee Vaughan. - "You can always count on the Americans to do the right thing after they have tried everything else" - Weakly linked to Winston Churchill. 
+
+So now after using data science methods for years, I will practice algorithms and learn to code fluently in Python!!
 
 I have ideas to present this code, but for now it lies in the src folder.
 
@@ -51,26 +53,3 @@ F - Fatal error, will prevent processing!
 - \__init__ is a constructor that is called to initialize the Class, here "MyClass" which can have many methods
 - \__name__ == "\__main__" identifies the main function to be run if the script is called directly, e.g., from the command line.
 - if the function is imported into another script nothing is done.
-
-
-## Presorting problems
-- Sorting + binary search
-- Sorting + one pass
-- Sorting + two-pointer pass
-
-## Complexity
-- Need to do better than BruteForce
-- Linear scan to search in non-sorted array - Cant be faster than linear O(n) - without missing a number/item!
-- O(n) - good for arrays, sliding window, 2-pointer, prefix-sum
-- O(log n) - typical binary search
-- quadratic time - look if you can do better
-- many 2D problems take quadratic time, also some dynamic sorting problem with 2D arrays
-[_Interesting JAVA code bug_](https://thebittheories.com/the-curious-case-of-binary-search-the-famous-bug-that-remained-undetected-for-20-years-973e89fc212)
-
-## Interesting exercises 
-- Bar Chart for alphabet usage in dictionary words
-
-
-
-
-
