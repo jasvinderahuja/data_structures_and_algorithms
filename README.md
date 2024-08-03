@@ -53,3 +53,5 @@ F - Fatal error, will prevent processing!
 - \__init__ is a constructor that is called to initialize the Class, here "MyClass" which can have many methods
 - \__name__ == "\__main__" identifies the main function to be run if the script is called directly, e.g., from the command line.
 - if the function is imported into another script nothing is done.
+
+## [For Sorting methods](SortingAlgorithms.md)
