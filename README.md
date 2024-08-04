@@ -10,48 +10,10 @@ So now after using data science methods for years, I will practice algorithms an
 
 I have ideas to present this code, but for now it lies in the src folder.
 
-## Python basics
-### Python header - 
->#!/usr/bin/env python
-
-### Resources for Python Conventions:
-[_Zen of Python or any other explanatory document_](https://peps.python.org/pep-0020/)
-[_PEP8 Standard_](https://peps.python.org/pep-0008/)
-[_PEP 257 Style Guide_](https://peps.python.org/pep-0257/)
-[_Pylint to grade your code_](https://pylint.readthedocs.io/en/stable/)
-[_Pseudocode standards_](https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)
-[_Python Data Structures_](https://www.stationx.net/python-data-structures-cheat-sheet/)
-
->pylint mycode.py
-
-R - Refactor - good practice metric violation!
-C - Convention Violation
-W - Warning for stylistic Problem
-E - Error, likely a bug
-F - Fatal error, will prevent processing!
-
-### The __main__ and __init__ things!
-
->
->class MyGreetings:
->    def __init__(self, name):
->        self.name = name
->    
->    def greet(self):
->        print(f"Hello, {self.name}!")
->
->if __name__ == "__main__":
->    # Create an instance of MyGreetings
->    my_instance = MyGreetings("Jas")
->    # Call the greet method
->    my_instance.greet()
->
-
-- Class uses CamelCase like MyClass here.
-- Methods are written in snake_case like my_function
-
-- \__init__ is a constructor that is called to initialize the Class, here "MyClass" which can have many methods
-- \__name__ == "\__main__" identifies the main function to be run if the script is called directly, e.g., from the command line.
-- if the function is imported into another script nothing is done.
-
-## [For Sorting methods](SortingAlgorithms.md)
+## [For basics of Python functions and writing clean code](Basics_of_Python.md)
+## [The mighty sorting algorithms](SortingAlgorithms.md)
+- Brute Force (MonkeySort, [SelectionSort](src/SelectionSort.py), [BubbleSort](src/BubbleSort.py))
+- Stepwise decrease ([InsertionSort](src/InsertSort.py))
+- Stepwise divide ([MergeSort](src/MergeSort_Pythony.py), [alt](src/MergeSort.py), [QuickSort](src/QuickSort.py))
+- Transform (TreeSort, HeapSort)
+- Linear-time Sorting (RadixSort, CountingSort & BucketSort)
