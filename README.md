@@ -10,7 +10,7 @@ So now after using data science methods for years, I will practice algorithms an
 
 I have ideas to present this code, but for now it lies in the src folder.
 
-## [For best practices in Python see](Best_Practices in_Python.md)
+## [For best practices in Python see](Best_Practices_Python.md)
 - shbang
 - List comprehension
 - Conventions
@@ -24,5 +24,11 @@ I have ideas to present this code, but for now it lies in the src folder.
 - Transform (TreeSort, HeapSort)
 - Linear-time Sorting (RadixSort, CountingSort & BucketSort)
 
+## Recursion
+- [Tower of Hanoi](src/TowerOfHanoi.py)
+
+
 ## Leetcode
- - 322 Coin Change [my solution](src/LC322_CoinChange.py)[question](https://leetcode.com/problems/coin-change/description/)
+- 55. Jump Game [my solution](src/LC55_JumpGame.py)    [leetcode 55](https://leetcode.com/problems/jump-game/description/)
+- 322. Coin Change [my solution](src/LC322_CoinChange.py)    [leetcode 322](https://leetcode.com/problems/coin-change/description/)
+ 
