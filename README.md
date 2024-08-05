@@ -10,10 +10,19 @@ So now after using data science methods for years, I will practice algorithms an
 
 I have ideas to present this code, but for now it lies in the src folder.
 
-## [For basics of Python functions and writing clean code](Basics_of_Python.md)
+## [For best practices in Python see](Best_Practices in_Python.md)
+- shbang
+- List comprehension
+- Conventions
+- `__main__` and `__init__`
+
+
 ## [The mighty sorting algorithms](SortingAlgorithms.md)
 - Brute Force (MonkeySort, [SelectionSort](src/SelectionSort.py), [BubbleSort](src/BubbleSort.py))
 - Stepwise decrease ([InsertionSort](src/InsertSort.py))
 - Stepwise divide ([MergeSort](src/MergeSort_Pythony.py), [alt](src/MergeSort.py), [QuickSort](src/QuickSort.py))
 - Transform (TreeSort, HeapSort)
 - Linear-time Sorting (RadixSort, CountingSort & BucketSort)
+
+## Leetcode
+ - 322 Coin Change [my solution](src/LC322_CoinChange.py)[question](https://leetcode.com/problems/coin-change/description/)
