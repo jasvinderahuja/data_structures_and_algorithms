@@ -11,7 +11,7 @@ So now after using data science methods for years, I will practice algorithms an
 I have ideas to present this code, but for now it lies in the src folder.
 
 ## [For best practices in Python see](Best_Practices_Python.md)
-- shbang
+- shbang  = #!/usr/bin/env python
 - List comprehension
 - Conventions
 - `__main__` and `__init__`
@@ -20,7 +20,7 @@ I have ideas to present this code, but for now it lies in the src folder.
 ## [The mighty sorting algorithms](SortingAlgorithms.md)
 - Brute Force (MonkeySort, [SelectionSort](src/SelectionSort.py), [BubbleSort](src/BubbleSort.py))
 - Stepwise decrease ([InsertionSort](src/InsertSort.py))
-- Stepwise divide ([MergeSort](src/MergeSort_Pythony.py), [alt](src/MergeSort.py), [QuickSort](src/QuickSort.py))
+- Stepwise divide ([MergeSort](src/MergeSort_Pythony.py), [alt MergeSort](src/MergeSort.py), [QuickSort](src/QuickSort.py))
 - Transform (TreeSort, HeapSort)
 - Linear-time Sorting (RadixSort, CountingSort & BucketSort)
 
@@ -29,6 +29,7 @@ I have ideas to present this code, but for now it lies in the src folder.
 
 
 ## Leetcode
-- 55. Jump Game [my solution](src/LC55_JumpGame.py)    [leetcode 55](https://leetcode.com/problems/jump-game/description/)
-- 322. Coin Change [my solution](src/LC322_CoinChange.py)    [leetcode 322](https://leetcode.com/problems/coin-change/description/)
+- 23 Merge k Sorted Lists [my solution](src/MergeKSortedLists.py)  [leetcode 23](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- 55 Jump Game [my solution](src/LC55_JumpGame.py)    [leetcode 55](https://leetcode.com/problems/jump-game/description/)
+- 322 Coin Change [my solution](src/LC322_CoinChange.py)    [leetcode 322](https://leetcode.com/problems/coin-change/description/)
  
