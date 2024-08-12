@@ -31,5 +31,6 @@ I have ideas to present this code, but for now it lies in the src folder.
 ## Leetcode
 - 23 Merge k Sorted Lists [my solution](src/MergeKSortedLists.py)  [leetcode 23](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - 55 Jump Game [my solution](src/LC55_JumpGame.py)    [leetcode 55](https://leetcode.com/problems/jump-game/description/)
+- 75 Sort Colors [my solution](src/LC75_SortColors.py)   [leetcode 75](https://leetcode.com/problems/sort-colors/description/)   
 - 322 Coin Change [my solution](src/LC322_CoinChange.py)    [leetcode 322](https://leetcode.com/problems/coin-change/description/)
  
