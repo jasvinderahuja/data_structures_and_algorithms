@@ -34,4 +34,4 @@ I have ideas to present this code, but for now it lies in the src folder.
 - 55 Jump Game [my solution](src/LC55_JumpGame.py)    [leetcode 55](https://leetcode.com/problems/jump-game/description/)
 - 75 Sort Colors [my solution](src/LC75_SortColors.py)   [leetcode 75](https://leetcode.com/problems/sort-colors/description/)   
 - 322 Coin Change [my solution](src/LC322_CoinChange.py)    [leetcode 322](https://leetcode.com/problems/coin-change/description/)
- 
+- 784 Letter Case Permutation [my solution](src/LC784_LetterCasePermutation.py) [leetcode](https://leetcode.com/problems/letter-case-permutation/submissions/1361450478/)
