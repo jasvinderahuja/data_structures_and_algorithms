@@ -16,6 +16,7 @@ I have ideas to present this code, but for now it lies in the src folder.
 - Conventions
 - `__main__` and `__init__`
 
+## [Getting started with Java](getting_started_with_JAVA.md)
 
 ## [The mighty sorting algorithms](SortingAlgorithms.md)
 - Brute Force (MonkeySort, [SelectionSort](src/SelectionSort.py), [BubbleSort](src/BubbleSort.py))
@@ -27,7 +28,13 @@ I have ideas to present this code, but for now it lies in the src folder.
 ## Recursion
 - Find Nth Fibonacci Number [iterative](src/FibonacciNumber_iter.py) [recursive](src/FibonacciNumber_recursive.py)
 - [Tower of Hanoi](src/TowerOfHanoi.py)
+- [Generate Binary Strings Of Length N](src/getBinaryStringsOfLengthN.py)
 - [Find All Subsets of a Set](src/FindAllSubsets.py)
+- [Permute Array Of Unique Integers](src/getPermutations.py)
+- [Generate all subsets](src/generate_all_subsets.py)
+
+## Trees
+- [Search A Node In Binary Search Tree](Search_A_Node_In_Binary_Search_Tree.py)
 
 ## Leetcode
 - 23 Merge k Sorted Lists [my solution](src/MergeKSortedLists.py)  [leetcode 23](https://leetcode.com/problems/merge-k-sorted-lists/description/)
