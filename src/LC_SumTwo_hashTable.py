@@ -13,3 +13,14 @@ def SumTwo_hashTable(numArr, SumTarget):
             Hashtable.append(numArr[i]) ## use a Tupple tupple avoids duplicates
                         
     """
+
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+        used_nums = {}
+
+        for i, val in enumerate(nums):
+            look_for = target - val
+            if look_for in used_nums.keys():
+                return [i, used_nums[look_for]]
+            else:
+                used_nums[val] = i
+        return -1

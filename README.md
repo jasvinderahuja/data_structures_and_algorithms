@@ -16,7 +16,7 @@ I have ideas to present this code, but for now it lies in the src folder.
 - Conventions
 - `__main__` and `__init__`
 
-## [Getting started with Java](getting_started_with_JAVA.md)
+## [Quick Refresher On JAVA](Quick_Refresher_On_JAVA.md)
 
 ## [The mighty sorting algorithms](SortingAlgorithms.md)
 - Brute Force (MonkeySort, [SelectionSort](src/SelectionSort.py), [BubbleSort](src/BubbleSort.py))

@@ -17,3 +17,11 @@ def SumTwo_noAuxSpace(numArr, TargetSum):
         
         return False
     """
+
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+      used_nums = []
+      for i, num1 in enumerate(nums):
+          for j, num2 in enumerate(nums[:i])
+              if num1+num2 = target
+              return [i,j]
+      return -1
